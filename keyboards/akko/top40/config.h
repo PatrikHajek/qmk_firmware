@@ -34,4 +34,5 @@
 
 #define RGB_TRIGGER_ON_KEYDOWN
 
-#define TAPPING_TERM 150
+#define TAPPING_TERM 180
+#define QUICK_TAP_TERM 0
