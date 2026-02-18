@@ -381,7 +381,7 @@
       ],
       [
         "RGB_TOG",
-        "KC_NO",
+        "KC_MPLY",
         "KC_RIGHT",
         "KC_UP",
         "KC_DOWN",
