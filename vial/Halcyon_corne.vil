@@ -262,14 +262,14 @@
         "KC_SLASH",
         "KC_COMMA",
         "KC_DOT",
-        "LSFT(KC_8)",
-        "KC_EQUAL"
+        "LSFT(KC_SCOLON)",
+        "LSFT(KC_8)"
       ],
       [
         "KC_TRNS",
         "KC_BSLASH",
         "LSFT(KC_BSLASH)",
-        "KC_COMMA",
+        "KC_EQUAL",
         "LSFT(KC_EQUAL)",
         "LSFT(KC_GRAVE)"
       ],
@@ -311,7 +311,7 @@
         "KC_3",
         "KC_2",
         "KC_1",
-        "LSFT(KC_SCOLON)"
+        "LSFT(KC_1)"
       ],
       [
         -1,
