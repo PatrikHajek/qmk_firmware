@@ -4,7 +4,7 @@
   "layout": [
     [
       [
-        "KC_LGUI",
+        "LGUI_T(KC_TAB)",
         "KC_Q",
         "KC_W",
         "KC_E",
