@@ -208,7 +208,7 @@
         -1
       ],
       [
-        "KC_DELETE",
+        "KC_TRNS",
         "LSFT(KC_2)",
         "LSFT(KC_0)",
         "KC_RBRACKET",
@@ -216,7 +216,7 @@
         "LSFT(KC_6)"
       ],
       [
-        "KC_CAPSLOCK",
+        "KC_DELETE",
         "LSFT(KC_MINUS)",
         "KC_QUOTE",
         "KC_EQUAL",
@@ -290,7 +290,7 @@
         -1
       ],
       [
-        "KC_BSPACE",
+        "KC_TRNS",
         "KC_TRNS",
         "KC_9",
         "KC_8",
@@ -380,7 +380,7 @@
         "TG(1)"
       ],
       [
-        "RGB_TOG",
+        "KC_CAPSLOCK",
         "KC_MPLY",
         "KC_RIGHT",
         "KC_UP",
@@ -1574,7 +1574,7 @@
     "2": 50,
     "3": 0,
     "4": 175,
-    "5": 5,
+    "5": 2,
     "6": 5000,
     "7": 200,
     "8": 0,
