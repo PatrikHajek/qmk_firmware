@@ -341,18 +341,18 @@
       ],
       [
         "RM_TOGG",
-        "RM_HUEU",
-        "RM_SATU",
-        "RM_VALU",
         "KC_NO",
-        "KC_NO"
+        "KC_MPLY",
+        "LSFT(KC_VOLD)",
+        "LSFT(KC_VOLU)",
+        "KC_MUTE"
       ],
       [
         "RM_NEXT",
-        "RM_HUED",
-        "RM_SATD",
-        "RM_VALD",
         "KC_NO",
+        "KC_NO",
+        "KC_MPRV",
+        "KC_MNXT",
         "LCTL(KC_LEFT)"
       ],
       [
@@ -381,7 +381,7 @@
       ],
       [
         "KC_CAPSLOCK",
-        "KC_MPLY",
+        "KC_HOME",
         "KC_RIGHT",
         "KC_UP",
         "KC_DOWN",
@@ -389,11 +389,11 @@
       ],
       [
         "KC_NUMLOCK",
-        "KC_MUTE",
-        "KC_MNXT",
-        "LSFT(KC_VOLU)",
-        "LSFT(KC_VOLD)",
-        "KC_MPRV"
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_END",
+        "KC_NO"
       ],
       [
         -1,
