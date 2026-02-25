@@ -31,7 +31,7 @@
         -1,
         -1,
         -1,
-        "TD(0)",
+        "MO(6)",
         "MO(3)",
         "KC_SPACE"
       ],
@@ -342,17 +342,17 @@
       [
         "RM_TOGG",
         "KC_NO",
-        "KC_MPLY",
-        "LSFT(KC_VOLD)",
-        "LSFT(KC_VOLU)",
-        "KC_MUTE"
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO"
       ],
       [
         "RM_NEXT",
         "KC_NO",
         "KC_NO",
-        "KC_MPRV",
-        "KC_MNXT",
+        "KC_NO",
+        "KC_NO",
         "LCTL(KC_LEFT)"
       ],
       [
@@ -499,20 +499,20 @@
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
+        "LCA(KC_E)",
+        "KC_TRNS",
+        "KC_TRNS"
+      ],
+      [
+        "LALT(KC_TAB)",
+        "KC_LGUI",
+        "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS"
       ],
       [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS"
-      ],
-      [
-        "KC_TRNS",
+        "OSM(MOD_LALT)",
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
@@ -546,18 +546,18 @@
       [
         "KC_TRNS",
         "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS"
+        "LALT(KC_L)",
+        "LALT(KC_K)",
+        "LALT(KC_J)",
+        "LALT(KC_H)"
       ],
       [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS"
+        "KC_MUTE",
+        "KC_MPLY",
+        "LSFT(KC_VOLD)",
+        "LSFT(KC_VOLU)",
+        "KC_MNXT",
+        "KC_MPRV"
       ],
       [
         -1,
