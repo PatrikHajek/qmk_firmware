@@ -472,9 +472,9 @@
       [
         "KC_MUTE",
         "KC_MPLY",
-        "LSFT(KC_VOLD)",
-        "LSFT(KC_VOLU)",
         "KC_MNXT",
+        "LSFT(KC_VOLU)",
+        "LSFT(KC_VOLD)",
         "KC_MPRV"
       ],
       [
