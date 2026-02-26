@@ -414,7 +414,7 @@
     ],
     [
       [
-        "KC_TRNS",
+        "LALT(KC_ESCAPE)",
         "KC_TRNS",
         "KC_TRNS",
         "LCA(KC_E)",
@@ -422,8 +422,8 @@
         "KC_TRNS"
       ],
       [
-        "LALT(KC_TAB)",
         "KC_LGUI",
+        "LALT(KC_A)",
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
