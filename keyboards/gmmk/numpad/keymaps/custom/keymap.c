@@ -28,8 +28,8 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [0] = LAYOUT(
     MO(1),   KC_PSLS,   KC_PAST,   KC_PMNS,
     KC_P7,   KC_P8,     KC_P9,     KC_PPLS,
-    KC_P4,   KC_P5,     KC_P6,     LCAG(KC_0),
-    KC_P1,   KC_P2,     KC_P3,     KC_ENTER,
+    KC_P4,   KC_P5,     KC_P6,     KC_MPLY,
+    KC_P1,   KC_P2,     KC_P3,     LCAG(KC_0),
     LCAG(KC_4),                    LCAG(KC_5)
   ),
   [1] = LAYOUT(
@@ -43,7 +43,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 // clang-format on
 
 const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][NUM_DIRECTIONS] = {
-    [0] = {ENCODER_CCW_CW(LCAG(KC_1), LCAG(KC_2))},
+    [0] = {ENCODER_CCW_CW(LSFT(KC_VOLD), LSFT(KC_VOLU))},
     [1] = {ENCODER_CCW_CW(KC_VOLD, KC_VOLU)},
 };
 
