@@ -53,7 +53,7 @@
       ],
       [
         "RCTL_T(KC_ENTER)",
-        "OSM(MOD_RSFT)",
+        "LSFT(KC_MINUS)",
         "KC_L",
         "KC_K",
         "KC_J",
